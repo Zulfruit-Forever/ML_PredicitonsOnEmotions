@@ -1,0 +1,6 @@
+text,predicted_emotion
+really love,happiness
+surprised,surprise
+nerd,fun
+bad person,neutral
+dont think thats good idea,neutral
